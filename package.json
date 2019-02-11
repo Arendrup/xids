@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git://github.com/phonegap/phonegap-app-developer.git"
   },
+  "dependencies": {
+  "request": ">=2.68.0"
+}
   "preferGlobal": false,
   "private": true,
   "scripts": {
